@@ -10,5 +10,3 @@
 ```
 ruby 8ball.rb
 ```
-## Контактные данные ##
-stereotype1@mail.ru
